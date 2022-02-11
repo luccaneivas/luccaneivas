@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=luccaneivas&label=Profile%20views&color=0e75b6&style=flat" alt="luccaneivas" /> </p>
+
 ## Olá! Eu sou o Lucca, estudante de desenvolvimento web Full-Stack! 👋
 
 - 💻 Estudando na [Trybe](https://www.betrybe.com/)!
