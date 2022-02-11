@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucca, estudante de desenvolvimento web Full-Stack! 👋
 
 - 💻 Estudando na [Trybe](https://www.betrybe.com/)!
-- 🌱 Aprendendo React.
+- 🌱 Aprendendo NodeJs.
 - 💼 Em busca do meu primeiro emprego como desenvolvedor.
 - 😄 Pronomes: ele/dele.
 ##
@@ -13,9 +13,10 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lucca-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
   
   ##
