@@ -1,27 +1,26 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=luccaneivas&label=Profile%20views&color=0e75b6&style=flat" alt="luccaneivas" /> </p>
+## Olá! Eu sou o Lucca, desenvolvedor web Full Stack! 👋
 
-## Olá! Eu sou o Lucca, estudante de desenvolvimento web Full-Stack! 👋
-
-- 💻 Estudando na [Trybe](https://www.betrybe.com/)!
-- 🌱 Aprendendo NodeJs.
+- 💻 Formado na [Trybe](https://www.betrybe.com/)! 
 - 💼 Em busca do meu primeiro emprego como desenvolvedor.
 - 😄 Pronomes: ele/dele.
+- :birthday: 23 anos.
+
 ##
 
 <div align="center">
   <a href="https://github.com/luccaneivas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccaneivas&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaneivas&layout=compact&langs_count=7&theme=kacho_ga"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luccaneivas&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luccaneivas&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" title="JavaScript" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="HTML" alt="Lucca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="Lucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="React" alt="Lucca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="Redux" alt="Lucca-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-</div>
-  
-  ##
+
+## Tecnologias dominadas
+
+- Front End: domino o Framework REACT.js, possuindo bons conhecimentos com Redux para gerenciamento de estado das aplicações. Já na parte de estilização domino bibliotecas famosas como Bootstrap e styled-components, e também SASS como pré-processador para um código mais organizado e legível.
+- Back End: domino o Framework Express.js, junto ao TypeScript para uma melhor organização de código. Para conexão com bancos relacionais e não relacionais domino o ORM Sequelize, possuindo conhecimento de MySQL e MongoDB. Para conteinerização de aplicações domino Docker.
+- Python: possuo domínio com Django Rest Framework.
+- Também possuo um básico conhecimento de Java.
+
+##
   
 <div align="center"> 
   <a href="https://instagram.com/luccaneivas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
