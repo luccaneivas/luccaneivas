@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Lucca, desenvolvedor web Full Stack! 👋
 
-- 💻 Formado na [Trybe](https://www.betrybe.com/)! 
+- 💻 Formado na [Trybe](https://www.betrybe.com/)!
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica](https://descomplica.com.br/faculdade/).
 - 💼 Em busca do meu primeiro emprego como desenvolvedor.
 - 😄 Pronomes: ele/dele.
 - :birthday: 23 anos.
