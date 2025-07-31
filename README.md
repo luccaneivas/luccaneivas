@@ -1,22 +1,35 @@
 ## Olá! Eu sou o Lucca, desenvolvedor web Full Stack! 👋
 
+- 👷 Desenvolvedor Full Stack na empresa [Grupo Report](https://gruporeport.com.br/) 😄
 - 💻 Formado na [Trybe](https://www.betrybe.com/)!
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica](https://descomplica.com.br/faculdade/).
-- 💼 Em busca do meu primeiro emprego como desenvolvedor.
 - 😄 Pronomes: ele/dele.
-- :birthday: 23 anos.
+- 🎂 25 anos.
 
-##
+## Tecnologias e Ferramentas
 
-<div align="center">
-  <a href="https://github.com/luccaneivas">
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luccaneivas&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luccaneivas&layout=compact&langs_count=7&theme=kacho_ga"/>
-</div>
+### 🧠 Front End
+- **React.js** com **Redux** para gerenciamento de estado.
+- Estilização com **Bootstrap**, **Tailwind CSS**, **SASS**, **styled-components** e animações com **GSAP** e **Swiper.js**.
+- Uso de **i18next** para internacionalização de aplicações.
+- Integração com **Figma** para implementação fiel de layouts.
 
-## Tecnologias dominadas
+### 🛠️ Back End
+- **Node.js** com **Express** e **NestJS**, usando **TypeScript**.
+- ORM com **Prisma** e **Sequelize**, com domínio em **MySQL** e familiaridade com **MongoDB**.
+- Testes automatizados com **Jest**, **Supertest**, e estrutura organizada de testes por módulos.
 
-- Front End: domino o Framework REACT.js, possuindo bons conhecimentos com Redux para gerenciamento de estado das aplicações. Já na parte de estilização domino bibliotecas famosas como Bootstrap e styled-components, e também SASS como pré-processador para um código mais organizado e legível.
-- Back End: domino o Framework Express.js, junto ao TypeScript para uma melhor organização de código. Para conexão com bancos relacionais e não relacionais domino o ORM Sequelize, possuindo conhecimento de MySQL e MongoDB. Para conteinerização de aplicações domino Docker.
-- Python: possuo domínio com Django Rest Framework.
-- Também possuo um básico conhecimento de Java.
+### 🐳 DevOps & Infra
+- Criação de ambientes com **Docker** e **Docker Compose**.
+- Deploy em servidor com **CyberPanel**, incluindo configuração de **PostgreSQL**, **reverse proxy**, **SSL**, e automações com Git.
+
+### 🐍 Python
+- Experiência com **Django REST Framework** para criação de APIs robustas.
+
+### 🌐 WordPress & CMS
+- Integração com **WordPress**, utilizando **Elementor** e **ACF (Advanced Custom Fields)** para páginas dinâmicas.
+- Customizações em temas e templates HTML.
+
+### 🧪 Outros
+- Noções básicas de **Java**.
+- Familiaridade com arquitetura MVC, princípios de **Clean Code** e organização modular de aplicações.
