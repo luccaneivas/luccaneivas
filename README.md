@@ -1,10 +1,9 @@
 ## Olá! Eu sou o Lucca, desenvolvedor web Full Stack! 👋
 
-- 👷 Desenvolvedor Full Stack na empresa [Grupo Report](https://gruporeport.com.br/) 😄
+- 👷 Tech Lead na empresa [Grupo Report](https://gruporeport.com.br/) 😄
 - 💻 Formado na [Trybe](https://www.betrybe.com/)!
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica](https://descomplica.com.br/faculdade/).
 - 😄 Pronomes: ele/dele.
-- 🎂 25 anos.
+- 🎂 26 anos.
 
 ## Tecnologias e Ferramentas
 
